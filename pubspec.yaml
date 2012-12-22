@@ -1,0 +1,5 @@
+name: id3
+version: 0.0.2
+author: Claudio "Dawson" d'Angelis
+description: Library to handle ID3 tags in MP3 files
+homepage: http://www.claudiodangelis.it/projects/id3
