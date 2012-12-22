@@ -17,7 +17,15 @@ Then
 	import 'package:id3/id3.dart';
 
 
-Example usage:
+### Example usage:
+
+You can run:
+
+
+	dart example/tags.dart /path/to/song.mp3 
+
+
+or
 
 	import 'dart:io';
 	import 'package:id3/id3.dart';
@@ -52,7 +60,7 @@ Example usage:
 
 Songs in examples are composed and performed by the [Stereo Nose Noise](https://soundcloud.com/stereonosenoise) band.
 
-Resources
+References
 
 - [id3.org](http://id3.org/)
 
