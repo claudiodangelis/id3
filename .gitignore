@@ -5,4 +5,5 @@ NOTES
 .project
 .pubspec.lock
 documentazione
-
+example/mp3
+packages/

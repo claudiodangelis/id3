@@ -4,6 +4,10 @@ Dart library to handle ID3 tags of MP3 files.
 
 Go to [project page](http://www.claudiodangelis.it/projects/id3) for extra details.
 
+## Status
+
+alpha
+
 ## Usage
 
 In `pubspec.yaml`:
